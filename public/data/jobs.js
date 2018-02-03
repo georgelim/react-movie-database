@@ -2,6 +2,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjE=",
+            "location": "A_20",
             "createdDate": "2017-06-18T11:49:00.558456+00:00",
             "duration": "",
             "salary": "",
@@ -31,6 +32,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjEz",
+            "location": "A_1",
             "createdDate": "2017-12-12T05:02:13.843488+00:00",
             "duration": "",
             "salary": "",
@@ -60,6 +62,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjM=",
+            "location": "A_20",
             "createdDate": "2017-06-18T11:49:57.338521+00:00",
             "duration": "",
             "salary": "",
@@ -84,6 +87,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjU=",
+            "location": "A_20",
             "createdDate": "2017-06-18T11:47:24.422338+00:00",
             "duration": "",
             "salary": "",
@@ -113,6 +117,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjY=",
+            "location": "A_20",
             "createdDate": "2017-06-18T11:50:01.481328+00:00",
             "duration": "",
             "salary": "",
@@ -142,6 +147,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjEy",
+            "location": "A_20",
             "createdDate": "2017-09-25T06:46:58.359252+00:00",
             "duration": "",
             "salary": "Negotiable",
@@ -171,6 +177,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjI=",
+            "location": "A_20",
             "createdDate": "2017-06-18T11:48:47.877790+00:00",
             "duration": "",
             "salary": "",
@@ -210,6 +217,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjQ=",
+            "location": "A_20",
             "createdDate": "2017-06-18T11:48:31.958342+00:00",
             "duration": "",
             "salary": "",
@@ -249,6 +257,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjEx",
+            "location": "A_7",
             "createdDate": "2017-06-18T16:31:49.395390+00:00",
             "duration": "",
             "salary": "522",
@@ -267,6 +276,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjc=",
+            "location": "A_1",
             "createdDate": "2017-06-18T16:26:24.408496+00:00",
             "duration": "",
             "salary": "100",
@@ -285,6 +295,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjg=",
+            "location": "A_1",
             "createdDate": "2017-06-18T16:27:28.695704+00:00",
             "duration": "",
             "salary": "100",
@@ -303,6 +314,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjk=",
+            "location": "A_1",
             "createdDate": "2017-06-18T16:27:50.380888+00:00",
             "duration": "",
             "salary": "10005",
@@ -321,6 +333,7 @@
     {
         "node": {
             "id": "Sm9iQm9hcmROb2RlOjEw",
+            "location": "A_1",
             "createdDate": "2017-06-18T16:29:21.882829+00:00",
             "duration": "",
             "salary": null,
