@@ -24,7 +24,7 @@ class NavDrawer extends Component {
           onTitleTouchTap={this.props.toggleNav}
           title="Course Manager"
         />
-        <MenuItem onClick={() => { this.menuItemClicked('/users') }}>Users</MenuItem>
+        <MenuItem onClick={() => { this.menuItemClicked('/jobs') }}>Jobs</MenuItem>
         <MenuItem onClick={() => { this.menuItemClicked('/workshops') }}>Courses</MenuItem>
       </Drawer>
     )

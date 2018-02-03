@@ -9,6 +9,7 @@ import {Route, Switch} from 'react-router-dom'
 import {bindActionCreators} from 'redux';
 
 import Dashboard from './dashboard'
+import JobsContainer from './jobs/JobsContainer'
 import {receiveJobs} from "../actions/jobs";
 import {fetchJobs} from "../api/jobs";
 
@@ -85,6 +86,7 @@ class App extends Component {
                 <div className="view-container" style={styles.app}>
                     <Switch>
                         <Route exact path="/" component={Dashboard}/>
+                        {<Route path="/jobs" component={JobsContainer} />}
                         {/*<Route path="/users" component={UserListContainer} />*/}
                         {/*<Route path="/workshops" component={WorkshopListContainer} />*/}
                     </Switch>
